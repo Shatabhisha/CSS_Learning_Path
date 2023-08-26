@@ -1,0 +1,19 @@
+p {
+    color: aliceblue;
+    font-size: 13px;
+}
+body {
+    background: black url("images/css.jpg") no-repeat;
+    /* background-image: url("images/future.png"); */
+    /* background-repeat: no-repeat; */
+}
+div {
+    background-color: aquamarine
+}
+#cssexample {
+    color: blueviolet;
+}
+h1, h2, p {
+    color: red;
+    text-align: center;
+}
